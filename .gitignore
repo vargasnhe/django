@@ -1,3 +1,8 @@
 entorno_*/
 .env
 __pycache__/
+
+
+## python manage.py startapp gestion
+
+
